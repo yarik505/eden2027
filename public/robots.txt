@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Yandex-specific directives
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign
+
+Sitemap: https://eden2027.com/sitemap.xml
